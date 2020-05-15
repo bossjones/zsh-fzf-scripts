@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "**/bin/*.*": "shellscript",
+        "**/bin/*": "shellscript"
+    },
+    // The default language mode that is assigned to new files.
+    "files.defaultLanguage": "shellscript"
+}
